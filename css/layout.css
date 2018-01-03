@@ -25,7 +25,7 @@
 /* Posititoning Classes */
 .col-1 {
   float: left;
-  width: 32%
+  width: 32%;
 }
 
 .col-2 {
@@ -38,6 +38,5 @@
 }
 
 .first {
-  clear: both;
   margin-left: 0%;
 }
