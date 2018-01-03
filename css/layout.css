@@ -38,5 +38,6 @@
 }
 
 .first {
+  clear: both;
   margin-left: 0%;
 }
